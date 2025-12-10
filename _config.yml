@@ -11,6 +11,7 @@ author:
   name:           'Richard Helper'
   url:            ' '
 
+theme: hyde
 # Gems
 plugins:
   - jekyll-paginate
