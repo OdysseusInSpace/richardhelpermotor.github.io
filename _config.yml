@@ -2,8 +2,8 @@
 title:            Liquid Rocket Motor Development
 tagline:          'version 1'
 description:      'Richard Helper'
-url:              https://odysseusinspace.github.io/richardhelpermotor.github.io/
-baseurl:          ""
+url:              https://odysseusinspace.github.io
+baseurl:          "/richardhelpermotor.github.io"
 paginate:         5
 
 # About and contact
