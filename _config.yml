@@ -11,11 +11,9 @@ author:
   name:           'Richard Helper'
   url:            ' '
 
-theme: minimal
+theme: hyde
 # Gems
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-gist
 
