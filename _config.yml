@@ -4,7 +4,7 @@ tagline:          'version 1'
 description:      'Richard Helper'
 url:              https://odysseusinspace.github.io
 baseurl:          "/richardhelpermotor.github.io"
-paginate:         5
+paginate:         10
 
 # About and contact
 author:
