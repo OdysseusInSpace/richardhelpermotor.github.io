@@ -1,0 +1,28 @@
+---
+layout: post
+title: Tests 3 and 4
+---
+## Test 3
+Upon closer inspection, the servos being used as valves were faulty, and the splines in the horns had stripped. Replacing these horns with those of higher quality resulted in much better mixing, but no ignition. This is possibly due to mistiming in the ignition code, or location. 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/-RyfslMzQMw"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
+## Test 4
+Placing another igniter in the nozzle fried the ignition circuit. I will be moving to larger solid rocket motors to avoid wasting more nitrous - the extra leeway in manual timing and greater spark is worth the cost.
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/aWKAt6vM7Fk"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
