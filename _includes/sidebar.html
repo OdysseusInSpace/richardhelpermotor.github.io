@@ -10,8 +10,17 @@
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="https://odysseusinspace.github.io/richardhelpermotor.github.io">Home</a>
-    </nav>
+      <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" 
+         href="https://odysseusinspace.github.io/richardhelpermotor.github.io">
+        Home
+      </a>
 
+      {% if site.posts.size > 0 %}
+        <a class="sidebar-nav-item" 
+           href="{{ site.posts.first.url | absolute_url }}">
+          Most Recent Test
+        </a>
+      {% endif %}
+    </nav>
   </div>
 </div>
