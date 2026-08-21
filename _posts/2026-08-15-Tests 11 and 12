@@ -37,8 +37,9 @@ Upon reviewing the footage of the first test, it appears that I got it right fro
 
 #### Force Measurements
 
-INSERT IMAGE
-
+<div style="display:flex; gap:0px; flex-wrap:wrap; justify-content:center;">
+  <img src="{{ site.baseurl }}/assets/lowforcereading.png" style="width:50%;"
+</div>
 This is less than the force likely produced by test 11 due to the lower nitrous pressure and thus propellant flow, but does show significant thrust. Just a fourth of what is expected.
 
 #### Simulation
