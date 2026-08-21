@@ -5,14 +5,17 @@ title: Partial Success and Reflection
 ## Test 11
 Upon reviewing the footage of the first test, it appears that I got it right from the get go, that the F15 approach is a dead end. Returning to the cartridge concept yields visible mach diamonds, but the issue of poor mixing - previously chalked up to the valves not fully opening - has reared its ugly head.
 
-INSERT VIDEO
-
-#### Simulation
-<div style="display:flex; gap:0px; flex-wrap:wrap; justify-content:center;">
-  <img src="{{ site.baseurl }}/assets/25percentthrust.png" style="width:50%;">
-  <img src="{{ site.baseurl }}/assets/25percentpressure.png" style="width:50%;">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/vQZ8Oitf05Q"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
 </div>
-Upon lowering the combustion efficiency in the HalfCat sim from 65 percent to 25 percent, we see a thrust and pressure curve that matches the video and my force measurements. 
+
 
 #### Proof of Choke
 <div style="display:flex; gap:0px; flex-wrap:wrap; justify-content:center;">
@@ -21,13 +24,29 @@ Upon lowering the combustion efficiency in the HalfCat sim from 65 percent to 25
 
 ## Test 12
 
-INSERT VIDEO
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    src="https://www.youtube.com/embed/-jFEo4OH8Lo"
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 #### Force Measurements
 
 INSERT IMAGE
 
 This is less than the force likely produced by test 11 due to the lower nitrous pressure and thus propellant flow, but does show significant thrust. Just a fourth of what is expected.
+
+#### Simulation
+<div style="display:flex; gap:0px; flex-wrap:wrap; justify-content:center;">
+  <img src="{{ site.baseurl }}/assets/25percentthrust.png" style="width:50%;">
+  <img src="{{ site.baseurl }}/assets/25percentpressure.png" style="width:50%;">
+</div>
+Upon lowering the combustion efficiency in the HalfCat sim from 65 percent to 25 percent, we see a thrust and pressure curve that matches the video and my force measurements. At the very least the motor's design seems viable. 
 
 ## Future Improvements
 This has been a long and arduous journey, and I'm not ending it with a fifth my expected performance. I suspect that the mixing issues are due to the method by which I have secured the central post of the manifold. Once the machine shop reopens 
